@@ -13,3 +13,5 @@
 
 ./test_no_overlap.sh "$1" no_overlap no_overlap_results
 
+./test_agg_tax.sh "$1" sacc_tax sacc_tax_results
+
