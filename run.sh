@@ -15,6 +15,6 @@
 
 ./test_agg_tax.sh "$1" sacc_tax sacc_tax_results
 
-./test_start_search.sh "$1" start_search start_search_results
+./test_start_scan.sh "$1" start_scan start_scan_results
 
 
